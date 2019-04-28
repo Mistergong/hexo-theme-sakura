@@ -1,20 +1,21 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+## 本页面修改并不会出发页面热更新
 
 # Site
-title: hojun
+title: Manfray
 subtitle:
-description: 好少年光芒万丈
+description: 以终为始，不忘出新
 keywords:
-author: hojun
+author: Manfray
 language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
-root: /
+url: http://localhost/hexo-theme-sakura/public
+root: /hexo-theme-sakura/public/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 

@@ -97,7 +97,7 @@ avatar: /img/custom/avatar.jpg
 url: https://sakura.hojun.cn
 
 # 站点介绍（或者说是个人签名）【改】
-description: Live your life with passion! With some drive!
+description: 以终为始，不忘初心！
 
 # 站点cdn，没有就为空 【改】  若是cdn为空，一些图片地址就要填完整地址了，比如之前avatar就要填https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
 cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6

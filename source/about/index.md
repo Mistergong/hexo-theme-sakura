@@ -27,14 +27,14 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
   </center>
   <bot-ui></botui>
 </div>
-<script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
-<script src="https://unpkg.com/botui/build/botui.min.js"></script>
+<script src="http://localhost/cdn/js/vue.min.js"></script>
+<script src="http://localhost/cdn/js/botui.min.js"></script>
 <script>
 function bot_ui_ini() {
     var botui = new BotUI("hello-mashiro");
     botui.message.add({
         delay: 800,
-        content: "Hi, there111👋"
+        content: "Hi, 你好呀！👏"
     }).then(function () {
         botui.message.add({
             delay: 1100,

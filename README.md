@@ -83,7 +83,7 @@ avatar : /img/custom/avatar.jpg
 url : https://sakura.hojun.cn
 
 #站介绍(或个人
-签名符) [Change] description : Live your life with passion! With some drive!
+签名符) [Change] description : 以终为始，不忘初心！
 
 #站cdn, no is empty [change] If cdn is empty, some image addresses must be filled in the complete address, such as the previous avatar to fill https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/ img / Custom / avatar.jpg 
 CDN : https://cdn.jsdelivr.net/gh/honjun/cdn@1.6

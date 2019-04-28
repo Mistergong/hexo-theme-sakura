@@ -566,6 +566,7 @@ function preBG () {
   bgindex = bgindex - 1
   console.log(bg[Math.abs(bgindex % bg.length)])
   $('.centerbg').css('background-image', 'url("' + bg[Math.abs(bgindex % bg.length)] + '")')
+  debugger;
 }
 $(document).ready(function () {
   var bgindex = Math.floor(Math.random() * bg.length)
@@ -1082,7 +1083,7 @@ var home = location.href,
             $('.toc').removeClass('toc-fixed')
           }
         }
-        $.getScript('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js');
+        $.getScript('//localhost/cdn/js/busuanzi.pure.mini.js');
       }
     },
     AB: function () {

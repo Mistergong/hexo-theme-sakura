@@ -1,35 +1,20 @@
 ---
-title: Hexo-Theme-Sakura
-author: hojun
-avatar: https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg
-authorLink: hojun.cn
-authorAbout: 一个好奇的人
-authorDesc: 一个好奇的人
-categories: 技术
-date: 2018-12-12 22:16:01
+title: 随便一个标题
+author: Manfray
+avatar: http://localhost/cdn/images/headimg/headimg.jpg
+authorLink: 
+authorAbout: 想知道？
+authorDesc: 除了帅没别的
+categories: 随笔
+date: 2019-04-28 16:00:00
 comments: true
 tags: 
- - web
+ - 随笔
  - 悦读
-keywords: Sakura
-description: hexo-sakura主题使用教程
-photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png
+keywords: manfray
+description: 随手写的一些描述
+photos: http://localhost/cdn/images/tool/wallhaven-672007-1-1024x576.png
 ---
-hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-sakura/blob/master/README.md)
-
-基于WordPress主题[Sakura](https://github.com/mashirozx/Sakura/)修改成Hexo的主题。
-
-[demo预览](https://sakura.hojun.cn)
-
-正在开发中......
-
-![](https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg)
-
-## 交流群
-若你是使用者，加群QQ: 801511924
-
-若你是创作者，加群QQ: 194472590
-
 
 ## 主题特性
 
@@ -114,7 +99,7 @@ avatar: /img/custom/avatar.jpg
 url: https://sakura.hojun.cn
 
 # 站点介绍（或者说是个人签名）【改】
-description: Live your life with passion! With some drive!
+description: 以终为始，不忘初心！
 
 # 站点cdn，没有就为空 【改】  若是cdn为空，一些图片地址就要填完整地址了，比如之前avatar就要填https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
 cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
